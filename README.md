@@ -23,7 +23,7 @@ PASSWORD = gmailpasskey
 If you have not  a gmail pass key  then use ethereal smtp sever. You can able to start app and Send email with contact form.
 
 4: If you are not able to see image in category Because You not upload image on Databse You need to make a Database name in mogoDB and make a it collections I  mention below all of this.
-# Datbase name Binyousaf
+# Database name Binyousaf
 
 Collection name
 # State
