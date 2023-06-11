@@ -87,7 +87,7 @@ function ValidateAdmin(req, res, next) {
                 if (err) {
                         // res.json({'Status': 'UnAuthorization', message: err.message})
                         console.log("Jwt Error", err)
-                        res.send("Invalid Signature")
+                        res.send("Invalid Signatures ☠")
                 }
 
                 else {
